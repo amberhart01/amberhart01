@@ -51,7 +51,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 Cloud Security Architect focused on **DevSecOps, CSPM, and AI for security**. Currently pursuing an MBA (AI Business Innovation).
 
 - 📫 Contact: add your email or a form link  
-- 🔗 GitHub: [@amberhart01](https://github.com/amberhart01) · LinkedIn: add your profile link  
+- 🔗 GitHub: [@amberhart01](https://github.com/amberhart01) · LinkedIn: www.linkedin.com/in/amber-s-hart 
 - 📄 Resume: add a link to a PDF or repo file
 
 ---
