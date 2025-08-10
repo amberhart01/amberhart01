@@ -1,3 +1,12 @@
-title: "Amber Hart's Class Projects"
-description: "A collection of my class projects and portfolio work."
+title: "Amber Hart — Class Projects"
+description: "Portfolio of class projects across AI, cloud security, data, and app dev."
 theme: jekyll-theme-cayman
+
+# Optional metadata (edit or remove)
+author: Amber Hart
+github_username: amberhart01
+linkedin_username: www.linkedin.com/in/amber-s-hart
+# url: https://amberhart01.github.io/amberhart01   # set later if you want canonical links
+
+# Page options
+show_downloads: false
