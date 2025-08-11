@@ -19,7 +19,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** LLM-assisted control mapping and gap analysis with retrieval over policy docs.  
 **Tech:** Python, FastAPI, LangChain, Azure OpenAI, Chromadb  
 **Highlights:** RAG pipeline, eval prompts, report export  
-**Links:** [Repo](https://github.com/amberhart01/your-ai-policy-reviewer) · [Demo/Write-up](https://github.com/amberhart01/your-ai-policy-reviewer#readme)
+**Links:** [Repo](https://github.com/amberhart01/RiskShield_Project7) · [Website](https://github.com/amberhart01/RiskShield_Project7)
 
 ---
 
@@ -50,9 +50,9 @@ This site highlights selected **course projects** and **experiments**. Each card
 ## About
 Cloud Security Architect focused on **DevSecOps, CSPM, and AI for security**. Currently pursuing an MBA (AI Business Innovation).
 
-- 📫 Contact: add your email or a form link  
-- 🔗 GitHub: [@amberhart01](https://github.com/amberhart01) · LinkedIn: www.linkedin.com/in/amber-s-hart 
-- 📄 Resume: add a link to a PDF or repo file
+- 📫 Contact: amberhart01@outlook.com 
+- 🔗 GitHub: [@amberhart01](https://github.com/amberhart01) · LinkedIn: (https://linkedin.com/in/amber-s-hart) 
+- 📄 Resume: (https://github.com/amberhart01/amberhart01/blob/main/Amber Resume 2025.pdf)
 
 ---
 
