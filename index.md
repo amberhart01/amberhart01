@@ -8,9 +8,6 @@ title: Home
 Hi! I’m Amber, a Cloud Security Architect & MBA student.  
 This site highlights selected **course projects** and **experiments**. Each card links to the GitHub repo and a short write-up/demo if available.
 
-> Tip: Replace the placeholder links and blurbs below with your real projects.  
-> Add new projects by duplicating a block.
-
 ---
 
 ## Projects
@@ -35,7 +32,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** Pipeline that deduplicates & enriches SOC alerts, then prioritizes.  
 **Tech:** LangFlow/LangChain, Python, Streamlit, OpenAI, Chromadb 
 **Highlights:** Similarity clustering, enrichment adapters, triage summary  
-**Links:** [Repo](https://github.com/amberhart01/cloud-advisor) · [Demo](https://github.com/amberhart01/cloud-advisor#demo)
+**Links:** [Repo](https://github.com/amberhart01/compliance-advisor-chatbot) · [Demo](https://github.com/amberhart01/compliance-advisor-chatbot#demo)
 
 ---
 
@@ -43,7 +40,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** Three Minute Thesis: Exploring Cyber Threat Patterns as Predictive Indicators of Geopolitical Crises 
 **Tech:** SQL, BigQuery, Looker Studio  
 **Highlights:** Geo joins, performance tuning, drill-downs  
-**Links:** [Repo](https://github.com/amberhart01/austin-311-equity) · [Report](https://github.com/amberhart01/austin-311-equity#report)
+**Links:** [Repo](https://github.com/amberhart01/geopolitical-cyber-3MT) · [Report](https://github.com/amberhart01/geopolitical-cyber-3MT#report)
 
 ---
 
