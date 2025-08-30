@@ -24,8 +24,13 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** Chatbot that answers CSPM/Defender/Wiz questions using knowledge packs.  
 **Tech:** Python, Streamlit, OpenAI, vector store  
 **Highlights:** Memory for tenant/subscription context, tool-calling for KB search  
-**Links:** [Repo](https://github.com/amberhart01/cloudsecurity_chatbot) · [Demo](hhttps://github.com/amberhart01/cloudsecurity_chatbot/tree/main/demo)
+**Links:** [Repo](https://github.com/amberhart01/cloudsecurity_chatbot) · 
 
+<video controls width="720" poster="/assets/images/demo-thumb.png">
+  <source src="/assets/videos/AHart_Kaltura_Capture_recording.mp4" type="video/mp4">
+  <!-- Optional fallback -->
+  Your browser doesn’t support HTML5 video. Here’s a <a href="/assets/videos/AHart_Kaltura_Capture_recording.mp4">direct link</a>.
+</video>
 ---
 
 ### 3) Compliance Advisor Chatbot
