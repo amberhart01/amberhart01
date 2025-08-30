@@ -26,7 +26,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 **Highlights:** Memory for tenant/subscription context, tool-calling for KB search  
 **Links:** [Report](/assets/reports/AHart Chatbot Report.pdf) · [Repo](https://github.com/amberhart01/cloudsecurity_chatbot)
 
-<video controls width="720" poster="/assets/images/demo-thumb.png">
+<video controls width="720" poster="/assets/images/snapshot_chatbot.jpeg">
   <source src="/assets/videos/AHart_Kaltura_Capture_recording.mp4" type="video/mp4">
   <!-- Optional fallback -->
   Your browser doesn’t support HTML5 video. Here’s a <a href="/assets/videos/AHart_Kaltura_Capture_recording.mp4">direct link</a>.
