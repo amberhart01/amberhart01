@@ -16,7 +16,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** LLM-assisted control mapping and gap analysis with retrieval over policy docs.  
 **Tech:** Python, FastAPI, LangChain, Azure OpenAI, Chromadb  
 **Highlights:** RAG pipeline, eval prompts, report export  
-**Links:** [Repo](https://github.com/amberhart01/RiskShield_Project7) · [Website](https://github.com/amberhart01/RiskShield_Project7)
+**Links:** [Repo](https://github.com/amberhart01/RiskShield_Project7)
 
 ---
 
