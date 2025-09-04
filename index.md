@@ -27,9 +27,9 @@ This site highlights selected **course projects** and **experiments**. Each card
 **Links:** [Report](/assets/reports/AHart Chatbot Report.pdf) · [Repo](https://github.com/amberhart01/cloudsecurity_chatbot)
 
 <video controls width="720" poster="/assets/images/snapshot_chatbot.jpeg">
-  <source src="/assets/videos/AHart_Kaltura_Capture_recording.mp4" type="video/mp4">
+  <source src="/assets/videos/Cloud Chatbot.mp4" type="video/mp4">
   <!-- Optional fallback -->
-  Your browser doesn’t support HTML5 video. Here’s a <a href="/assets/videos/AHart_Kaltura_Capture_recording.mp4">direct link</a>.
+  Your browser doesn’t support HTML5 video. Here’s a <a href="/assets/videos/Cloud Chatbot.mp4">direct link</a>.
 </video>
 ---
 
@@ -37,15 +37,20 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** Pipeline that deduplicates & enriches SOC alerts, then prioritizes.  
 **Tech:** LangFlow/LangChain, Python, Streamlit, OpenAI, Chromadb 
 **Highlights:** Similarity clustering, enrichment adapters, triage summary  
-**Links:** [Repo](https://github.com/amberhart01/compliance-advisor-chatbot) · [Demo](https://github.com/amberhart01/compliance-advisor-chatbot#demo)
+**Links:** [Report](/assets/reports/AHart Domain Specific AI Report.pdf) · [Repo](https://github.com/amberhart01/compliance-advisor-chatbot)
 
+<video controls width="720" poster="/assets/images/snapshot_chatbot.jpeg">
+  <source src="/assets/videos/domain specific AI.mp4" type="video/mp4">
+  <!-- Optional fallback -->
+  Your browser doesn’t support HTML5 video. Here’s a <a href="/assets/videos/domain specific AI.mp4">direct link</a>.
+</video>
 ---
 
 ### 4) Synchronizing Cyber and Political Events Across Nations 
 **What it is:** Three Minute Thesis: Exploring Cyber Threat Patterns as Predictive Indicators of Geopolitical Crises 
 **Tech:** SQL, BigQuery, Looker Studio  
 **Highlights:** Geo joins, performance tuning, drill-downs  
-**Links:** [Repo](https://github.com/amberhart01/geopolitical-cyber-3MT) · [Report](https://github.com/amberhart01/geopolitical-cyber-3MT#report)
+**Links:** [Report](/assets/reports/AHart_ThreeMinuteThesis_Report.pdf)
 
 ---
 
