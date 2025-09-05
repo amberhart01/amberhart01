@@ -58,7 +58,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 **Highlights:** Geo joins, performance tuning, drill-downs  
 **Links:** [Report](/assets/reports/AHart_ThreeMinuteThesis_Report.pdf)
 
-<iframe src="https://docs.google.com/presentation/d/1NboQppy31KtV9p5odP7W15fhQcf5Cv3h/edit?usp=sharing&ouid=101293185789628771619&rtpof=true&sd=true" 
+<iframe src="https://docs.google.com/presentation/d/e/1NboQppy31KtV9p5odP7W15fhQcf5Cv3h/embed?start=false&loop=false&delayms=3000" 
         frameborder="0" width="720" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 
