@@ -21,7 +21,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 ---
 
 ### 2) Cloud Security Chatbot
-**What it is:** Chatbot that answers CSPM/Defender/Wiz questions using knowledge packs.  
+**What it is:**  Modern cloud security operations teams juggle multiple environments, tickets, and configuration details. Our Cloud Security Support Bot addresses the pain of repeatedly asking “What’s my subscription ID?”, “Which storage account did I reference?”, or “What steps did we take to resolve that alert last week?” By embedding a lightweight memory layer into an LLM‐powered chatbot, we enable operators to retrieve environment facts and past resolutions instantly—saving time and reducing context‐switching overhead.
 **Tech:** Python, Streamlit, OpenAI, vector store  
 **Highlights:** Memory for tenant/subscription context, tool-calling for KB search  
 **Links:** [Report](/assets/reports/AHart Chatbot Report.pdf) · [Repo](https://github.com/amberhart01/cloudsecurity_chatbot)
@@ -34,8 +34,8 @@ This site highlights selected **course projects** and **experiments**. Each card
 ---
 
 ### 3) Compliance Advisor Chatbot
-**What it is:** Pipeline that deduplicates & enriches SOC alerts, then prioritizes.  
-**Tech:** LangFlow/LangChain, Python, Streamlit, OpenAI, Chromadb 
+**What it is:** The Compliance Advisor Chatbot is a specialized AI assistant built to help organizations compare their internal security policies against the NIST SP 800-53 standard. It lives in the domain of cybersecurity and compliance, a critical area for any organization running regulated workloads in public clouds.  
+**Tech:** LangChain, Python, Streamlit, OpenAI, Chromadb 
 **Highlights:** Similarity clustering, enrichment adapters, triage summary  
 **Links:** [Report](/assets/reports/AHart Domain Specific AI Report.pdf) · [Repo](https://github.com/amberhart01/compliance-advisor-chatbot)
 
