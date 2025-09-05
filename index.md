@@ -56,7 +56,12 @@ This site highlights selected **course projects** and **experiments**. Each card
 **What it is:** Three Minute Thesis: Exploring Cyber Threat Patterns as Predictive Indicators of Geopolitical Crises 
 **Tech:** SQL, BigQuery, Looker Studio  
 **Highlights:** Geo joins, performance tuning, drill-downs  
-**Links:** [Report](/assets/reports/AHart_ThreeMinuteThesis_Report.pdf) · [Powerpoint](assets/reports/AHart_Three Minute Thesis_MGMT8020.pptx)
+**Links:** [Report](/assets/reports/AHart_ThreeMinuteThesis_Report.pdf)
+
+<iframe src="https://docs.google.com/presentation/d/1NboQppy31KtV9p5odP7W15fhQcf5Cv3h/edit?usp=sharing&ouid=101293185789628771619&rtpof=true&sd=true" 
+        frameborder="0" width="720" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+
 
 ---
 
