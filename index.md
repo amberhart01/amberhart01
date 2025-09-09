@@ -71,7 +71,10 @@ Cloud Security Architect focused on **DevSecOps, CSPM, and AI for security**. Cu
 - 📫 Contact: amberhart01@outlook.com 
 - 🔗 GitHub: [@amberhart01](https://github.com/amberhart01) · [LinkedIn:](https://linkedin.com/in/amber-s-hart) 
 - [📄 Resume](https://github.com/amberhart01/amberhart01/blob/main/Amber_Resume_2025.pdf)
+---
 
+## Explore More
+[📝 Blog](blog.html)
 ---
 
 ### How this site works
