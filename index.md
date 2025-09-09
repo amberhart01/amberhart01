@@ -12,15 +12,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 
 ## Projects
 
-### 1) RiskShield
-**What it is:** LLM-assisted control mapping and gap analysis with retrieval over policy docs.  
-**Tech:** Python, FastAPI, LangChain, Azure OpenAI, Chromadb  
-**Highlights:** RAG pipeline, eval prompts, report export  
-**Links:** [Repo](https://github.com/amberhart01/RiskShield_Project7)
-
----
-
-### 2) Cloud Security Chatbot
+### 1) Cloud Security Chatbot
 **What it is:**  Modern cloud security operations teams juggle multiple environments, tickets, and configuration details. Our Cloud Security Support Bot addresses the pain of repeatedly asking “What’s my subscription ID?”, “Which storage account did I reference?”, or “What steps did we take to resolve that alert last week?” By embedding a lightweight memory layer into an LLM‐powered chatbot, we enable operators to retrieve environment facts and past resolutions instantly—saving time and reducing context‐switching overhead.
 **Tech:** Python, Streamlit, OpenAI, vector store  
 **Highlights:** Memory for tenant/subscription context, tool-calling for KB search  
@@ -33,10 +25,10 @@ This site highlights selected **course projects** and **experiments**. Each card
 </video>
 ---
 
-### 3) Compliance Advisor Chatbot
+### 2) Compliance Advisor Chatbot
 **What it is:** The Compliance Advisor Chatbot is a specialized AI assistant built to help organizations compare their internal security policies against the NIST SP 800-53 standard. It lives in the domain of cybersecurity and compliance, a critical area for any organization running regulated workloads in public clouds.  
 **Tech:** LangChain, Python, Streamlit, OpenAI, Chromadb 
-**Highlights:** Similarity clustering, enrichment adapters, triage summary  
+**Highlights:** Agentic AI workflow for policy-to-NIST control mapping, vector-based retrieval of internal documents, automated compliance gap analysis with explainable results, and an interactive Streamlit interface for security/compliance teams. 
 **Links:** [Report](/assets/reports/AHart Domain Specific AI Report.pdf) · [Repo](https://github.com/amberhart01/compliance-advisor-chatbot)
 
 <video controls width="720" poster="https://amberhart01.github.io/amberhart01/assets/images/assets/images/Convert to GIF project.jpeg">
@@ -52,6 +44,13 @@ This site highlights selected **course projects** and **experiments**. Each card
 </video>
 ---
 
+### 3) RiskShield
+**What it is:** LLM-assisted control mapping and gap analysis with retrieval over policy docs.  
+**Tech:** Python, FastAPI, LangChain, Azure OpenAI, Chromadb  
+**Highlights:** RAG pipeline, eval prompts, report export  
+**Links:** [Repo](https://github.com/amberhart01/RiskShield_Project7)
+
+---
 ### 4) Synchronizing Cyber and Political Events Across Nations 
 **What it is:** Three Minute Thesis: Exploring Cyber Threat Patterns as Predictive Indicators of Geopolitical Crises 
 **Tech:** SQL, BigQuery, Looker Studio  
