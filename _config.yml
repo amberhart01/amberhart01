@@ -5,7 +5,8 @@ theme: jekyll-theme-cayman
 # Optional metadata (edit or remove)
 author: Amber Hart
 github_username: amberhart01
-# url: https://amberhart01.github.io/amberhart01   # set later if you want canonical links
+url: "https://amberhart01.github.io"
+baseurl: "/amberhart01"
 
 # Page options
 show_downloads: false
