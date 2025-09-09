@@ -44,7 +44,7 @@ This site highlights selected **course projects** and **experiments**. Each card
 </video>
 ---
 
-### 3) RiskShield
+### 3) RiskShield (In-Progress)
 **What it is:** LLM-assisted control mapping and gap analysis with retrieval over policy docs.  
 **Tech:** Python, FastAPI, LangChain, Azure OpenAI, Chromadb  
 **Highlights:** RAG pipeline, eval prompts, report export  
