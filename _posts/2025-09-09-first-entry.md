@@ -35,11 +35,3 @@ In parallel, I drafted the initial threat model (docs/threat-model.md) for the a
     RiskShield Security Playground threat-model.md
   </figcaption>
 </figure>
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;">
-  <img src="{{ site.baseurl }}/assets/images/posts_imgs/threat-model.png" alt="threat-model.md" style="width:100%;height:auto;">
-  <img src="{{ site.baseurl }}/assets/images/posts_imgs/threatmodel2.png"  alt="threat-model.md"  style="width:100%;height:auto;">
-   <figcaption style="color:#6a737d;font-size:.95rem;margin-top:.4rem;">
-       RiskShield Security Playground threat-model.md
-  </figcaption>
-</div>
