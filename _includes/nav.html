@@ -1,25 +1,25 @@
-<nav class="top-nav" style="text-align:center; margin:.75rem 0 1.25rem;">
-  <a class="nav-btn" href="{{ site.baseurl }}/">Home</a>
-  <a class="nav-btn" href="{{ site.baseurl }}/blog.html">Blog</a>
-  <a class="nav-btn" href="{{ site.github.repository_url }}">View on GitHub</a>
+<nav class="header-nav" style="text-align:center; margin-top:0.75rem;">
+  <a class="header-btn" href="{{ site.baseurl }}/">Home</a>
+  <a class="header-btn" href="{{ site.baseurl }}/blog.html">Blog</a>
+  <a class="header-btn" href="{{ site.github.repository_url }}">View on GitHub</a>
 </nav>
 
 <style>
-  /* Local nav styles so Cayman doesn't override them */
-  .top-nav .nav-btn{
+  /* Match Cayman "View on GitHub" style */
+  .header-nav .header-btn {
     display:inline-block;
     margin:0 .35rem;
     padding:.45rem .9rem;
     border-radius:8px;
-    border:1px solid #159957;      /* Cayman green */
-    color:#159957;
+    border:1px solid #fff;
+    color:#fff !important;
     text-decoration:none;
     font-weight:600;
     transition:all .15s ease;
-    background:#fff;               /* stay visible on white */
+    background:transparent;
   }
-  .top-nav .nav-btn:hover{
-    background:#159957;
-    color:#fff;
+  .header-nav .header-btn:hover {
+    background:#fff;
+    color:#159957 !important; /* Cayman green */
   }
 </style>
