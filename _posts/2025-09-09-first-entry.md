@@ -14,4 +14,5 @@ I’ve set up the RiskShield Security Playground as a standalone repo to showcas
 So far, I’ve verified that the Semgrep, SBOM/Dependency Audit, and IaC workflows are working as expected. I had to log into Semgrep and configure the correct YAML file from their dashboard, but after that adjustment, the scans are running smoothly and reporting back to GitHub. The ZAP Baseline workflow has not executed yet, which I suspect is because there’s no live build or URL for the app to scan against. That will be addressed in the next phase when I configure a build step or deploy to a test environment.
 
 In parallel, I drafted the initial threat model (docs/threat-model.md) for the app. This document outlines the system components, a data flow diagram (DFD), STRIDE threat categories, and detailed abuse case scenarios. I also included a planned security test matrix mapping tools (Semgrep, ZAP, pip-audit, etc.) to expected outcomes. This file will serve as the foundation for tracking security improvements, identifying mitigation strategies, and documenting before/after states as I address vulnerabilities.
-
+![image info](/assets/images/posts_imgs/repo_README.png)
+![image info](/assets/images/posts_imgs/threat-model.png)
