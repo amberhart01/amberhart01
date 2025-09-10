@@ -1,12 +1,23 @@
 title: "Amber Hart — Class Projects"
 description: "Portfolio of class projects across AI, cloud security, data, and app dev."
-theme: jekyll-theme-cayman
+theme: minima
 
 # Optional metadata (edit or remove)
 author: Amber Hart
 github_username: amberhart01
 url: "https://amberhart01.github.io"
 baseurl: "/amberhart01"
+
+minima:
+  skin: classic              # or auto, dark, solarized, etc.
+  social_links:
+    github: amberhart01
+header_pages:
+  - index.md
+  - blog.md
+
+plugins: [jekyll-feed]
+include: ["assets/css/custom.css"]
 
 # Page options
 show_downloads: false
